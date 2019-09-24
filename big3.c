@@ -11,7 +11,7 @@ void big3()
     {
         if (num1 > num3)
         {
-            printf("num1 is the greatest among three \n");
+            printf("\n num1 is the greatest among three \n");
         }
         else
         {
